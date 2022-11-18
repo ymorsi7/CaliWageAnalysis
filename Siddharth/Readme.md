@@ -26,6 +26,25 @@
 <!-- Modules required -->
 ## Modules required
 
+```sh
+  pip install pymannkendall
+```
+```sh
+  pip install kats==0.1 ax-platform==0.2.3 statsmodels==0.12.2
+```
+
+* Matplotlib pyplot
+* csv
+* pandas
+* datetime
+* statsmodels.tsa.arima.model
+* math
+* sklearn.metrics
+* statsmodels.tsa.stattools
+* kats.consts
+* kats.utils.decomposition
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
