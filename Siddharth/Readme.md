@@ -14,7 +14,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#modules">Modules required</a></li>
+    <li><a href="#modules-required">Modules required</a></li>
     <li><a href="#code_structure">Code Structure</a></li>
     <li><a href="#Theory">Theory</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
