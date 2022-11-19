@@ -1,6 +1,8 @@
 <a name="readme-top"></a>
 
 This part of the project has been contributed by Siddharth Satyam. 
+The data files are uploaded as "92212_Alameda_FederalGovt.csv" and "92212_Alameda_StateGovt.csv", which were extracted from the main data using the SQL query in 
+queries.sql
 
 <!-- PROJECT LOGO -->
 <br />
