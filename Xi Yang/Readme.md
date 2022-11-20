@@ -8,6 +8,7 @@ This part of the project has been contributed by Xi Yang. It is about analyzing 
   <summary>Contents</summary>
   <ol>
     <li><a href="#modules-required">Modules required</a></li>
+    <li><a href="#modules-required">Data composition</a></li>
     <li><a href="#code-structure">Code Structure</a></li>
   </ol>
 </details>
@@ -26,6 +27,18 @@ This part of the project has been contributed by Xi Yang. It is about analyzing 
 ```sh
   pip install Matplotlib
 ```
+
+
+<!-- Data composition -->
+## Data composition
+
+Ownership Type:
+* Federal Government
+* Local Government
+* Private
+* State Government
+
+
 
 
 <!-- Code Structure -->
