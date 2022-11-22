@@ -3,7 +3,7 @@
 ## Time Series Analysis of the employment data
 
 This part of the project has been contributed by Siddharth Satyam. 
-The data files are uploaded as "92212_Alameda_FederalGovt.csv", "92212_Alameda_StateGovt.csv" and "44412_Alameda_Private.csv", which were extracted from the main data using the SQL query in queries.sql
+The data files are uploaded as "92212_Alameda_FederalGovt.csv", "92212_Alameda_StateGovt.csv" and "44422_Alameda_Private.csv", which were extracted from the main data using the SQL query in queries.sql
 
 <!-- TABLE OF CONTENTS -->
 <details>
