@@ -1,7 +1,7 @@
 
 """
 Time Series Analysis for:
-Alameda County, Industry: Police Protection, NAICS: 92212, Ownership: State Government
+Alameda County, Industry: Police Protection, NAICS: 92212, Ownership: Federal Government
 """
 
 
