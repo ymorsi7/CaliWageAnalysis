@@ -22,7 +22,8 @@ The team members are:
 
 ## Data Structure
 
-California employment and wage analysis on data from the past decade.
+The dataset is obtained from a Quarterly Census of Emplyment and Wages (OCEW) from the past decade. 
+It can be found here: <a href="https://catalog.data.gov/dataset/quarterly-census-of-employment-and-wages-qcew"> Quarterly Census of Emplyment and Wages (OCEW) </a>
 
 Colons can be used to align columns.
 
