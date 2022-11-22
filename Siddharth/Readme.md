@@ -42,9 +42,10 @@ The data files are uploaded as "92212_Alameda_FederalGovt.csv", "92212_Alameda_S
 <!-- Code Structure -->
 ## Code Structure
 
-Time Series Analysis has been done for 2 industries:
+Time Series Analysis has been done for 3 industries:
 * Alameda County, Industry: Police Protection, NAICS: 92212, Ownership: State Government
 * Alameda County, Industry: Police Protection, NAICS: 92212, Ownership: Federal Government
+* Alameda County, Industry: Nursery, Garden & Farm Supply Stores, NAICS: 44422, Ownership: Private
 
 There are 2 .py code files "run_analysis_state.py" and "run_analysis_state.py" for the 2 industries of Police Protection. 
 In each file we have:
@@ -96,7 +97,7 @@ To perform time series prediction using ARIMA:
 
 Similarly, we can perform all the tests for the other 2 .py files.
 
-
+The analysis for "Nursery, Garden & Farm Supply Stores" has been done only to detect seasonality as it was intuitive that it should have some relation to season.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
