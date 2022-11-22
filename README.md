@@ -18,7 +18,7 @@ The presentation slides are available as presentation.pdf
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#data-structure">Data Structure</a></li>
-    <li><a href="#work distribution">Work Distribution</a></li>
+    <li><a href="#work-distribution">Work Distribution</a></li>
   </ol>
 </details>
 
