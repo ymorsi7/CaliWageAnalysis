@@ -27,9 +27,8 @@ It can be found here: <a href="https://catalog.data.gov/dataset/quarterly-census
 
 The data is structured as:
 
-| Area Type     | Area Name     | Quarter  | Ownership | NAICS Level | NAICS Code |Industry Name|Establishments|
-|:-------------:|:-------------:|:--------:|:---------:|:-----------:|:----------:|:-----------:|:------------:|
-|               |               |          |           |	           |		        |		          |	             | 	
+| Area Type     | Area Name     | Quarter  | Ownership | NAICS Code |Industry Name|Establishments|1st Month Emp|2nd Month Emp|3rd Month Emp|Total Wages| Average Weekly Wages|
+|:-------------:|:-------------:|:--------:|:---------:|:----------:|:-----------:|:------------:|:-----------:|:-----------:|:-----------:|:---------:|:-------------------:|
+|               |               |          |           |	           |		        |	       | 	
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
