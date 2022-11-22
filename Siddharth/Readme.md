@@ -3,22 +3,12 @@
 This part of the project has been contributed by Siddharth Satyam. 
 The data files are uploaded as "92212_Alameda_FederalGovt.csv" and "92212_Alameda_StateGovt.csv", which were extracted from the main data using the SQL query in queries.sql
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#modules-required">Modules required</a></li>
     <li><a href="#code-structure">Code Structure</a></li>
-    <li><a href="#Theory">Theory</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
