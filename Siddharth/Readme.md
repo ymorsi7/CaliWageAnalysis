@@ -94,7 +94,7 @@ To perform time series prediction using ARIMA:
   python run_analysis_state.py --ARIMA
 ```
 
-Similarly, we can perform all the tests for the second code by replacing 'state' with 'federal'.
+Similarly, we can perform all the tests for the other 2 .py files.
 
 
 
