@@ -3,7 +3,7 @@
 ## Time Series Analysis of the employment data
 
 This part of the project has been contributed by Siddharth Satyam. 
-The data files are uploaded as "92212_Alameda_FederalGovt.csv" and "92212_Alameda_StateGovt.csv", which were extracted from the main data using the SQL query in queries.sql
+The data files are uploaded as "92212_Alameda_FederalGovt.csv", "92212_Alameda_StateGovt.csv" and "44412_Alameda_Private.csv", which were extracted from the main data using the SQL query in queries.sql
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -46,7 +46,7 @@ Time Series Analysis has been done for 2 industries:
 * Alameda County, Industry: Police Protection, NAICS: 92212, Ownership: State Government
 * Alameda County, Industry: Police Protection, NAICS: 92212, Ownership: Federal Government
 
-There are 2 .py code files "run_analysis_state.py" and "run_analysis_state.py" for the 2 industries. 
+There are 2 .py code files "run_analysis_state.py" and "run_analysis_state.py" for the 2 industries of Police Protection. 
 In each file we have:
 * Plotting of Time Series Data
 * Autocorrelation Plot for the time series
