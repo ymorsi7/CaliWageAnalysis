@@ -41,6 +41,41 @@ weeklyWagesTitles = ["California", "County", "USA"]
 fig = plt.figure(figsize = (10, 5))
 plt.bar(weeklyWagesTitles, weeklyWagesList, color ='maroon', width = 0.4)
 
+
+
+
+
+
+areaNameMonthly = df.groupby("Area Name")["Average Monthly Employment"].apply(list)
+
+caliEmp = areaNameMonthly[5]
+laEmp = areaNameMonthly[19]
+sdEmp = areaNameMonthly[37]
+sfEmp = areaNameMonthly[38]
+usaEmp = areaNameMonthly[56]
+
+
+
+areaNameWeekly = df.groupby("Area Name")["Average Weekly Wages"].apply(list)
+
+
+caliWages = areaNameWeekly[5]
+laEmpWages = areaNameWeekly[19]
+sdEmpWages = areaNameWeekly[37]
+sfEmpWages = areaNameWeekly[38]
+usaEmpWages = areaNameWeekly[56]
+
+
+
+
+
+
+
+
+
+
+
+
 plt.xlabel("Area Type")
 plt.ylabel("Avg Weekly Wages")
 plt.title("Avg Weekly Wages v. Area Type")
@@ -63,6 +98,7 @@ plt.title('United States Ownership Comparison')
 caOwnership = df[(df["Area Type"]=="California - Statewide")& (df["Quarter"]=="Annual") & (df["Industry Name"]!="Total, All Industries")][["Industry Name", "Ownership"]].groupby(['Ownership']).count()
 plt.pie(caOwnership["Industry Name"],labels=caOwnership.index,autopct="%.2f%%")
 plt.title('California Ownership Comparison')
+
 
 
 
