@@ -11,7 +11,7 @@ The team members are:
 * Yusuf Morsi
 * Siddharth Satyam
 
-The presentation slides are available as presentation.pdf
+The presentation slides are available as ECE 143 group 8 submiting version.pdf
 
 <!-- TABLE OF CONTENTS -->
 <details>
