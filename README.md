@@ -44,7 +44,7 @@ The work is distributed as:
 * Yuhao Huang -> Analysis of relationship between employment and wages.
 * Zhiyan Zhu -> Analysis of establishments and correlation between establishents, wages and average monthly employment.
 * Xi Yang -> Analysis of the ownership’s property
-* Yusuf Morsi -> Analysis of average weekly wages & monthly employment, comparision of California vs. countires vs. USA.
+* Yusuf Morsi -> Analysis of average weekly wages & monthly employment, comparision of California vs. counties vs. USA.
 * Siddharth Satyam -> Time series Analysis and prediction 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
