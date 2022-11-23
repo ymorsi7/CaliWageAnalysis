@@ -24,8 +24,8 @@ The presentation slides are available as presentation.pdf
 
 ## Data Structure
 
-The dataset is obtained from a Quarterly Census of Emplyment and Wages (OCEW) from the past decade (2004-2021). 
-It can be found here: <a href="https://catalog.data.gov/dataset/quarterly-census-of-employment-and-wages-qcew"> Quarterly Census of Emplyment and Wages (OCEW) </a>
+The dataset is obtained from a Quarterly Census of Employment and Wages (OCEW) from the past decade (2004-2021). 
+It can be found here: <a href="https://catalog.data.gov/dataset/quarterly-census-of-employment-and-wages-qcew"> Quarterly Census of Employment and Wages (OCEW) </a>
 
 The data is structured as:
 
